@@ -1,0 +1,21 @@
+google develop go_lang language
+3--->developer is develop
+	1.ken Thompson 
+	2.Robert griesemer
+	3.Rob Pike
+09/2007 start working on this language .
+Final varsion 1.14 feb 2020
+----------------------------------------------->
+ featuers charactetise
+1.concurrency concept inbild ahe   : server side develoment (multiple work at time) 
+2.independent Executable : tyla sagnara code ha sota carry karte run time la
+3.Automatic Garbage collection (memery link vagre hote c mathe mnun tyani hai thevl
+4.storngly typed l
+5.true internatioal 
+6.UTF la suport karte 
+7.gunral purpose language 
+8.go Language is compiled lauguage aaahe
+
+extation or run program command :
+.go
+go run progran_name.go
